@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Tan Yi Jing</string>
+    <string name="my_profile_pic">Profile Picture</string>
+    <string name="my_profile_desc">
+        \nHello World!
+        \n
+        \nHello World 2!
+        \n
+        \nHello World 3!
+        \n
+        \n\tHello World 4!
+        \n
+        \nHello World 5!
+        \n
+        \nHello World 6!
+        \n
+        \nHello World 7!
+        \n
+        \nHello World 8!
+        \n
+        \nHello World 9!
+        \nHello World 5!
+        \n
+        \nHello World 6!
+        \n
+        \nHello World 7!
+        \n
+        \nHello World 8!
+        \n
+        \nHello World 9!
+    </string>
+</resources>
